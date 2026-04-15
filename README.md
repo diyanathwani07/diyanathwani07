@@ -1,6 +1,12 @@
+<h1 align="center">Hi 👋, I'm Diya Nathwani</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400"/>
+</p>
+
 <p align="center">
   <a href="https://diyaportfolio-tawny.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF69B4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/diyanathwani07">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
