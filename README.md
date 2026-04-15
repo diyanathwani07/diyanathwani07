@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Diya Nathwani</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Machine+Learning+Enthusiast;Building+AI+Projects;Future+AI+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656916-7d9f4b76-7c3f-4d63-8f42-41d6c7c7c3f8.gif" width="400"/>
-</p>
-
 <p align="center">
   <a href="https://diyaportfolio-tawny.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF69B4?style=for-the-badge"/>
